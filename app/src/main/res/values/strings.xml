@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SaltPay Top</string>
+
+    <!--Tabs-->
+    <string name="tab_top_list_label">Top 100</string>
+    <string name="tab_favorite_label">Favorite</string>
+
+    <!--Screens-->
+    <string name="not_data">Data not found</string>
+    <string name="search_by_name">Search by name</string>
+    <string name="auto_update_title">AutoUpdate 5 sec</string>
+    <string name="album">Album</string>
+    <string name="details_placeholder">Details placeholder</string>
+
+    <!--Errors-->
+    <string name="error_occurred">An error occurred</string>
+</resources>
